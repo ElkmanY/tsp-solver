@@ -1,4 +1,3 @@
-clear all;
 %%  read *.tsp file
 [n,coordinate,distance] = readfile('china32.tsp');
 %%  draw tour trajectory

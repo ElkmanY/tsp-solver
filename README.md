@@ -10,7 +10,7 @@
 drawtour(sequence, coordinate)
 ```
 
-![tour](/tour.gif)
+![tour](/img/tour.gif)
 
 
 ```matlab
