@@ -1,6 +1,7 @@
 # tsp-solver
  MATLAB toolkit of the Travelling Salesman Problem (TSP).
- Under construction...
+ 
+ Please note that this project is not done yet and the developer is now working on the code.
 
 
 ## files
